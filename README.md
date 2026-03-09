@@ -7,3 +7,10 @@ Python
 Machine Learning
 Scikit-learn
 Pandas
+
+## Project Output
+
+![Output](output.png)
+## Project Output
+
+![Output](output1.png)
